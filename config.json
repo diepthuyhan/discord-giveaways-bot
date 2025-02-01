@@ -2,5 +2,6 @@
     "token": "",
     "everyoneMention": false,
     "hostedBy": true,
-    "guildId": ""
+    "guildId": "",
+    "giveawayDataPath": "./storage"
 }
